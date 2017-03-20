@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 7761c4ab6c1f14abba81b1fe5521da85
+timeCreated: 1489775231
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group3
+    100002: pCube26
+    100004: pCube27
+    100006: pCube29
+    100008: pCube30
+    100010: pCube38
+    100012: pCube39
+    100014: pCube40
+    100016: pCube41
+    100018: pCube42
+    100020: pCube43
+    100022: pCube44
+    100024: pCube45
+    100026: pCube46
+    100028: pCube47
+    100030: pCube48
+    100032: pCube49
+    100034: pCube51
+    100036: pCube52
+    100038: pCube53
+    100040: pCube55
+    100042: pCube56
+    100044: pCube57
+    100046: pCube58
+    100048: pCube59
+    100050: pCube60
+    100052: pCube61
+    100054: pCube62
+    100056: pCube63
+    100058: pCube64
+    100060: pCube65
+    100062: roof_01
+    100064: roof_02
+    100066: roof_03
+    100068: roof_04
+    100070: roof_05
+    100072: roof_06
+    100074: roofs
+    100076: sign_board
+    100078: Tire03
+    100080: Tire03 1
+    100082: Tire04
+    100084: Tire04 1
+    100086: Tire05
+    100088: Tire05 1
+    100090: Tire06
+    100092: Tire07
+    100094: Tire08
+    100096: tires
+    100098: //RootNode
+    400000: group3
+    400002: pCube26
+    400004: pCube27
+    400006: pCube29
+    400008: pCube30
+    400010: pCube38
+    400012: pCube39
+    400014: pCube40
+    400016: pCube41
+    400018: pCube42
+    400020: pCube43
+    400022: pCube44
+    400024: pCube45
+    400026: pCube46
+    400028: pCube47
+    400030: pCube48
+    400032: pCube49
+    400034: pCube51
+    400036: pCube52
+    400038: pCube53
+    400040: pCube55
+    400042: pCube56
+    400044: pCube57
+    400046: pCube58
+    400048: pCube59
+    400050: pCube60
+    400052: pCube61
+    400054: pCube62
+    400056: pCube63
+    400058: pCube64
+    400060: pCube65
+    400062: roof_01
+    400064: roof_02
+    400066: roof_03
+    400068: roof_04
+    400070: roof_05
+    400072: roof_06
+    400074: roofs
+    400076: sign_board
+    400078: Tire03
+    400080: Tire03 1
+    400082: Tire04
+    400084: Tire04 1
+    400086: Tire05
+    400088: Tire05 1
+    400090: Tire06
+    400092: Tire07
+    400094: Tire08
+    400096: tires
+    400098: //RootNode
+    2300000: pCube26
+    2300002: pCube27
+    2300004: pCube29
+    2300006: pCube30
+    2300008: pCube38
+    2300010: pCube39
+    2300012: pCube40
+    2300014: pCube41
+    2300016: pCube42
+    2300018: pCube43
+    2300020: pCube44
+    2300022: pCube45
+    2300024: pCube46
+    2300026: pCube47
+    2300028: pCube48
+    2300030: pCube49
+    2300032: pCube51
+    2300034: pCube52
+    2300036: pCube53
+    2300038: pCube55
+    2300040: pCube56
+    2300042: pCube57
+    2300044: pCube58
+    2300046: pCube59
+    2300048: pCube60
+    2300050: pCube61
+    2300052: pCube62
+    2300054: pCube63
+    2300056: pCube64
+    2300058: pCube65
+    2300060: roof_01
+    2300062: roof_02
+    2300064: roof_03
+    2300066: roof_04
+    2300068: roof_05
+    2300070: roof_06
+    2300072: sign_board
+    2300074: Tire03
+    2300076: Tire03 1
+    2300078: Tire04
+    2300080: Tire04 1
+    2300082: Tire05
+    2300084: Tire05 1
+    2300086: Tire06
+    2300088: Tire07
+    2300090: Tire08
+    3300000: pCube26
+    3300002: pCube27
+    3300004: pCube29
+    3300006: pCube30
+    3300008: pCube38
+    3300010: pCube39
+    3300012: pCube40
+    3300014: pCube41
+    3300016: pCube42
+    3300018: pCube43
+    3300020: pCube44
+    3300022: pCube45
+    3300024: pCube46
+    3300026: pCube47
+    3300028: pCube48
+    3300030: pCube49
+    3300032: pCube51
+    3300034: pCube52
+    3300036: pCube53
+    3300038: pCube55
+    3300040: pCube56
+    3300042: pCube57
+    3300044: pCube58
+    3300046: pCube59
+    3300048: pCube60
+    3300050: pCube61
+    3300052: pCube62
+    3300054: pCube63
+    3300056: pCube64
+    3300058: pCube65
+    3300060: roof_01
+    3300062: roof_02
+    3300064: roof_03
+    3300066: roof_04
+    3300068: roof_05
+    3300070: roof_06
+    3300072: sign_board
+    3300074: Tire03
+    3300076: Tire03 1
+    3300078: Tire04
+    3300080: Tire04 1
+    3300082: Tire05
+    3300084: Tire05 1
+    3300086: Tire06
+    3300088: Tire07
+    3300090: Tire08
+    4300000: pCube27
+    4300002: sign_board
+    4300004: pCube29
+    4300006: pCube30
+    4300008: pCube38
+    4300010: pCube39
+    4300012: pCube40
+    4300014: pCube41
+    4300016: pCube45
+    4300018: pCube46
+    4300020: pCube47
+    4300022: pCube48
+    4300024: pCube49
+    4300026: Tire05
+    4300028: Tire04
+    4300030: Tire03
+    4300032: Tire07
+    4300034: Tire08
+    4300036: Tire06
+    4300038: Tire05
+    4300040: Tire04
+    4300042: Tire03
+    4300044: roof_05
+    4300046: roof_04
+    4300048: roof_03
+    4300050: roof_02
+    4300052: roof_01
+    4300054: roof_06
+    4300056: pCube51
+    4300058: pCube52
+    4300060: pCube55
+    4300062: pCube58
+    4300064: pCube59
+    4300066: pCube60
+    4300068: pCube61
+    4300070: pCube62
+    4300072: pCube44
+    4300074: pCube53
+    4300076: pCube56
+    4300078: pCube57
+    4300080: pCube63
+    4300082: pCube64
+    4300084: pCube65
+    4300086: pCube26
+    4300088: pCube42
+    4300090: pCube43
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2043 @@
+fileFormatVersion: 2
+guid: 739674555ec8f2140b7e0ade25a05943
+timeCreated: 1484953847
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C_Head_jnt
+    100002: C_Hip_jnt
+    100004: C_Hip_jnt1
+    100006: C_Hip_jnt2
+    100008: C_Hip_jnt3
+    100010: C_Root_jnt
+    100012: C_Torso_jnt
+    100014: Head
+    100016: Hips
+    100018: L_Ankle
+    100020: L_Ankle02_jnt
+    100022: L_Ankle_jnt
+    100024: L_ArmRotate_jnt
+    100026: L_BottomArmEnd_jnt
+    100028: L_BottomEblow02_jnt
+    100030: L_BottomElbow_jnt
+    100032: L_BottomShoulder01_jnt
+    100034: L_BottomShoulder02_jnt
+    100036: L_Index01
+    100038: L_Index01_jnt
+    100040: L_Index02
+    100042: L_Index02_jnt
+    100044: L_Index03
+    100046: L_Index03_jnt
+    100048: L_IndexEnd_jnt
+    100050: L_Knee_jnt
+    100052: L_LowerArm
+    100054: L_LowerElbow
+    100056: L_LowerForearm
+    100058: L_LowerLeg
+    100060: L_LowerShoulder
+    100062: L_Middle01
+    100064: L_Middle01_jnt
+    100066: L_Middle02
+    100068: L_Middle02_jnt
+    100070: L_Middle03
+    100072: L_Middle03_jnt
+    100074: L_MiddleEnd_jnt
+    100076: L_Palm
+    100078: L_Pinky01
+    100080: L_Pinky01_jnt
+    100082: L_Pinky02
+    100084: L_Pinky02_jnt
+    100086: L_Pinky03
+    100088: L_Pinky03_jnt
+    100090: L_PinkyEnd_jnt
+    100092: L_Ring01
+    100094: L_Ring01_jnt
+    100096: L_Ring02
+    100098: L_Ring02_jnt
+    100100: L_Ring03
+    100102: L_Ring03_jnt
+    100104: L_RingEnd_jnt
+    100106: L_Thumb01
+    100108: L_Thumb01_jnt
+    100110: L_Thumb02
+    100112: L_Thumb02_jnt
+    100114: L_Thumb03
+    100116: L_Thumb03_jnt
+    100118: L_ThumbEnd_jnt
+    100120: L_Toe01
+    100122: L_Toe01_jnt
+    100124: L_Toe01End_jnt
+    100126: L_Toe02
+    100128: L_Toe02_jnt
+    100130: L_Toe02End_jnt
+    100132: L_Toe03
+    100134: L_Toe03_jnt
+    100136: L_Toe03End_jnt
+    100138: L_TorsoWheel
+    100140: L_UpperArm
+    100142: L_UpperEblow02_jnt
+    100144: L_UpperElbow
+    100146: L_UpperElbow_jnt
+    100148: L_UpperForearm
+    100150: L_UpperLeg
+    100152: L_UpperLeg02_jnt
+    100154: L_UpperLeg_jnt
+    100156: L_UpperShoudler01_jnt
+    100158: L_UpperShoulder
+    100160: L_UpperShoulder02_jnt
+    100162: L_Wrist_jnt
+    100164: Magnet
+    100166: pCube24
+    100168: pCube25
+    100170: polySurface97
+    100172: polySurface98
+    100174: polySurface99
+    100176: R_Ankle
+    100178: R_Ankle02_jnt
+    100180: R_Ankle_jnt
+    100182: R_ArmRotate_jnt
+    100184: R_BottomEblow02_jnt
+    100186: R_BottomElbow_jnt
+    100188: R_BottomShoulder01_jnt
+    100190: R_BottomShoulder02_jnt
+    100192: R_Drill
+    100194: R_Drill_jnt
+    100196: R_Foot
+    100198: R_Index01
+    100200: R_Index01_jnt
+    100202: R_Index02
+    100204: R_Index02_jnt
+    100206: R_Index03
+    100208: R_Index03_jnt
+    100210: R_IndexEnd_jnt
+    100212: R_Knee_jnt
+    100214: R_LowerArm
+    100216: R_LowerElbow
+    100218: R_LowerForearn
+    100220: R_LowerLeg
+    100222: R_LowerShoulder
+    100224: R_Middle01
+    100226: R_Middle01_jnt
+    100228: R_Middle02
+    100230: R_Middle02_jnt
+    100232: R_Middle03
+    100234: R_Middle03_jnt
+    100236: R_MiddleEnd_jnt
+    100238: R_Palm
+    100240: R_Pinky01
+    100242: R_Pinky01_jnt
+    100244: R_Pinky02
+    100246: R_Pinky02_jnt
+    100248: R_Pinky03
+    100250: R_Pinky03_jnt
+    100252: R_PinkyEnd_jnt
+    100254: R_Ring01
+    100256: R_Ring01_jnt
+    100258: R_Ring02
+    100260: R_Ring02_jnt
+    100262: R_Ring03
+    100264: R_Ring03_jnt
+    100266: R_RingEnd_jnt
+    100268: R_Thumb01
+    100270: R_Thumb01_jnt
+    100272: R_Thumb02
+    100274: R_Thumb02_jnt
+    100276: R_Thumb03
+    100278: R_Thumb03_jnt
+    100280: R_ThumbEnd_jnt
+    100282: R_Toe01
+    100284: R_Toe01_jnt
+    100286: R_Toe01End_jnt
+    100288: R_Toe02
+    100290: R_Toe02_jnt
+    100292: R_Toe02End_jnt
+    100294: R_Toe03
+    100296: R_Toe03_jnt
+    100298: R_Toe03End_jnt
+    100300: R_TorsoWheel
+    100302: R_UpperArm
+    100304: R_UpperEblow02_jnt
+    100306: R_UpperElbow
+    100308: R_UpperElbow_jnt
+    100310: R_UpperForearm
+    100312: R_UpperLeg
+    100314: R_UpperLeg02_jnt
+    100316: R_UpperLeg_jnt
+    100318: R_UpperShoudler01_jnt
+    100320: R_UpperShoulder
+    100322: R_UpperShoulder02_jnt
+    100324: R_Wrist_jnt
+    100326: Spine
+    100328: SpineBase
+    100330: //RootNode
+    100332: Tire01
+    100334: tire02_jnt
+    100336: TireHook_jnt
+    100338: TireHookBar_jnt
+    400000: C_Head_jnt
+    400002: C_Hip_jnt
+    400004: C_Hip_jnt1
+    400006: C_Hip_jnt2
+    400008: C_Hip_jnt3
+    400010: C_Root_jnt
+    400012: C_Torso_jnt
+    400014: Head
+    400016: Hips
+    400018: L_Ankle
+    400020: L_Ankle02_jnt
+    400022: L_Ankle_jnt
+    400024: L_ArmRotate_jnt
+    400026: L_BottomArmEnd_jnt
+    400028: L_BottomEblow02_jnt
+    400030: L_BottomElbow_jnt
+    400032: L_BottomShoulder01_jnt
+    400034: L_BottomShoulder02_jnt
+    400036: L_Index01
+    400038: L_Index01_jnt
+    400040: L_Index02
+    400042: L_Index02_jnt
+    400044: L_Index03
+    400046: L_Index03_jnt
+    400048: L_IndexEnd_jnt
+    400050: L_Knee_jnt
+    400052: L_LowerArm
+    400054: L_LowerElbow
+    400056: L_LowerForearm
+    400058: L_LowerLeg
+    400060: L_LowerShoulder
+    400062: L_Middle01
+    400064: L_Middle01_jnt
+    400066: L_Middle02
+    400068: L_Middle02_jnt
+    400070: L_Middle03
+    400072: L_Middle03_jnt
+    400074: L_MiddleEnd_jnt
+    400076: L_Palm
+    400078: L_Pinky01
+    400080: L_Pinky01_jnt
+    400082: L_Pinky02
+    400084: L_Pinky02_jnt
+    400086: L_Pinky03
+    400088: L_Pinky03_jnt
+    400090: L_PinkyEnd_jnt
+    400092: L_Ring01
+    400094: L_Ring01_jnt
+    400096: L_Ring02
+    400098: L_Ring02_jnt
+    400100: L_Ring03
+    400102: L_Ring03_jnt
+    400104: L_RingEnd_jnt
+    400106: L_Thumb01
+    400108: L_Thumb01_jnt
+    400110: L_Thumb02
+    400112: L_Thumb02_jnt
+    400114: L_Thumb03
+    400116: L_Thumb03_jnt
+    400118: L_ThumbEnd_jnt
+    400120: L_Toe01
+    400122: L_Toe01_jnt
+    400124: L_Toe01End_jnt
+    400126: L_Toe02
+    400128: L_Toe02_jnt
+    400130: L_Toe02End_jnt
+    400132: L_Toe03
+    400134: L_Toe03_jnt
+    400136: L_Toe03End_jnt
+    400138: L_TorsoWheel
+    400140: L_UpperArm
+    400142: L_UpperEblow02_jnt
+    400144: L_UpperElbow
+    400146: L_UpperElbow_jnt
+    400148: L_UpperForearm
+    400150: L_UpperLeg
+    400152: L_UpperLeg02_jnt
+    400154: L_UpperLeg_jnt
+    400156: L_UpperShoudler01_jnt
+    400158: L_UpperShoulder
+    400160: L_UpperShoulder02_jnt
+    400162: L_Wrist_jnt
+    400164: Magnet
+    400166: pCube24
+    400168: pCube25
+    400170: polySurface97
+    400172: polySurface98
+    400174: polySurface99
+    400176: R_Ankle
+    400178: R_Ankle02_jnt
+    400180: R_Ankle_jnt
+    400182: R_ArmRotate_jnt
+    400184: R_BottomEblow02_jnt
+    400186: R_BottomElbow_jnt
+    400188: R_BottomShoulder01_jnt
+    400190: R_BottomShoulder02_jnt
+    400192: R_Drill
+    400194: R_Drill_jnt
+    400196: R_Foot
+    400198: R_Index01
+    400200: R_Index01_jnt
+    400202: R_Index02
+    400204: R_Index02_jnt
+    400206: R_Index03
+    400208: R_Index03_jnt
+    400210: R_IndexEnd_jnt
+    400212: R_Knee_jnt
+    400214: R_LowerArm
+    400216: R_LowerElbow
+    400218: R_LowerForearn
+    400220: R_LowerLeg
+    400222: R_LowerShoulder
+    400224: R_Middle01
+    400226: R_Middle01_jnt
+    400228: R_Middle02
+    400230: R_Middle02_jnt
+    400232: R_Middle03
+    400234: R_Middle03_jnt
+    400236: R_MiddleEnd_jnt
+    400238: R_Palm
+    400240: R_Pinky01
+    400242: R_Pinky01_jnt
+    400244: R_Pinky02
+    400246: R_Pinky02_jnt
+    400248: R_Pinky03
+    400250: R_Pinky03_jnt
+    400252: R_PinkyEnd_jnt
+    400254: R_Ring01
+    400256: R_Ring01_jnt
+    400258: R_Ring02
+    400260: R_Ring02_jnt
+    400262: R_Ring03
+    400264: R_Ring03_jnt
+    400266: R_RingEnd_jnt
+    400268: R_Thumb01
+    400270: R_Thumb01_jnt
+    400272: R_Thumb02
+    400274: R_Thumb02_jnt
+    400276: R_Thumb03
+    400278: R_Thumb03_jnt
+    400280: R_ThumbEnd_jnt
+    400282: R_Toe01
+    400284: R_Toe01_jnt
+    400286: R_Toe01End_jnt
+    400288: R_Toe02
+    400290: R_Toe02_jnt
+    400292: R_Toe02End_jnt
+    400294: R_Toe03
+    400296: R_Toe03_jnt
+    400298: R_Toe03End_jnt
+    400300: R_TorsoWheel
+    400302: R_UpperArm
+    400304: R_UpperEblow02_jnt
+    400306: R_UpperElbow
+    400308: R_UpperElbow_jnt
+    400310: R_UpperForearm
+    400312: R_UpperLeg
+    400314: R_UpperLeg02_jnt
+    400316: R_UpperLeg_jnt
+    400318: R_UpperShoudler01_jnt
+    400320: R_UpperShoulder
+    400322: R_UpperShoulder02_jnt
+    400324: R_Wrist_jnt
+    400326: Spine
+    400328: SpineBase
+    400330: //RootNode
+    400332: Tire01
+    400334: tire02_jnt
+    400336: TireHook_jnt
+    400338: TireHookBar_jnt
+    4300000: pCube25
+    4300002: polySurface98
+    4300004: polySurface99
+    4300006: SpineBase
+    4300008: polySurface97
+    4300010: L_TorsoWheel
+    4300012: R_TorsoWheel
+    4300014: Spine
+    4300016: R_UpperShoulder
+    4300018: R_UpperArm
+    4300020: R_UpperElbow
+    4300022: R_UpperForearm
+    4300024: R_Thumb01
+    4300026: R_Index01
+    4300028: R_Index02
+    4300030: R_Index03
+    4300032: R_Middle01
+    4300034: R_Middle02
+    4300036: R_Middle03
+    4300038: R_Ring03
+    4300040: R_Ring02
+    4300042: R_Ring01
+    4300044: R_Pinky01
+    4300046: R_Pinky02
+    4300048: R_Pinky03
+    4300050: R_Thumb02
+    4300052: R_Thumb03
+    4300054: R_Palm
+    4300056: R_LowerShoulder
+    4300058: R_LowerArm
+    4300060: R_LowerElbow
+    4300062: R_LowerForearn
+    4300064: R_Drill
+    4300066: L_UpperShoulder
+    4300068: L_UpperArm
+    4300070: L_UpperElbow
+    4300072: L_UpperForearm
+    4300074: L_Thumb01
+    4300076: L_Thumb02
+    4300078: L_Thumb03
+    4300080: L_Pinky01
+    4300082: L_Pinky02
+    4300084: L_Pinky03
+    4300086: L_Ring01
+    4300088: L_Ring02
+    4300090: L_Ring03
+    4300092: L_Middle01
+    4300094: L_Middle02
+    4300096: L_Middle03
+    4300098: L_Index01
+    4300100: L_Index02
+    4300102: L_Index03
+    4300104: L_Palm
+    4300106: L_LowerShoulder
+    4300108: L_LowerArm
+    4300110: L_LowerElbow
+    4300112: L_LowerForearm
+    4300114: Magnet
+    4300116: Hips
+    4300118: R_LowerLeg
+    4300120: R_Ankle
+    4300122: R_Foot
+    4300124: R_Toe01
+    4300126: R_Toe02
+    4300128: R_Toe03
+    4300130: R_UpperLeg
+    4300132: L_LowerLeg
+    4300134: L_Ankle
+    4300136: pCube24
+    4300138: L_Toe03
+    4300140: L_Toe02
+    4300142: L_Toe01
+    4300144: L_UpperLeg
+    4300146: Head
+    4300148: Tire01
+    7400000: TC700-idle-01
+    7400002: TC700-idle-raise-R-hand
+    7400004: TC700-idle-look
+    7400006: TC700-idle-scratch-head
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Head
+    13700002: Hips
+    13700004: L_Ankle
+    13700006: L_Index01
+    13700008: L_Index02
+    13700010: L_Index03
+    13700012: L_LowerArm
+    13700014: L_LowerElbow
+    13700016: L_LowerForearm
+    13700018: L_LowerLeg
+    13700020: L_LowerShoulder
+    13700022: L_Middle01
+    13700024: L_Middle02
+    13700026: L_Middle03
+    13700028: L_Palm
+    13700030: L_Pinky01
+    13700032: L_Pinky02
+    13700034: L_Pinky03
+    13700036: L_Ring01
+    13700038: L_Ring02
+    13700040: L_Ring03
+    13700042: L_Thumb01
+    13700044: L_Thumb02
+    13700046: L_Thumb03
+    13700048: L_Toe01
+    13700050: L_Toe02
+    13700052: L_Toe03
+    13700054: L_TorsoWheel
+    13700056: L_UpperArm
+    13700058: L_UpperElbow
+    13700060: L_UpperForearm
+    13700062: L_UpperLeg
+    13700064: L_UpperShoulder
+    13700066: Magnet
+    13700068: pCube24
+    13700070: pCube25
+    13700072: polySurface97
+    13700074: polySurface98
+    13700076: polySurface99
+    13700078: R_Ankle
+    13700080: R_Drill
+    13700082: R_Foot
+    13700084: R_Index01
+    13700086: R_Index02
+    13700088: R_Index03
+    13700090: R_LowerArm
+    13700092: R_LowerElbow
+    13700094: R_LowerForearn
+    13700096: R_LowerLeg
+    13700098: R_LowerShoulder
+    13700100: R_Middle01
+    13700102: R_Middle02
+    13700104: R_Middle03
+    13700106: R_Palm
+    13700108: R_Pinky01
+    13700110: R_Pinky02
+    13700112: R_Pinky03
+    13700114: R_Ring01
+    13700116: R_Ring02
+    13700118: R_Ring03
+    13700120: R_Thumb01
+    13700122: R_Thumb02
+    13700124: R_Thumb03
+    13700126: R_Toe01
+    13700128: R_Toe02
+    13700130: R_Toe03
+    13700132: R_TorsoWheel
+    13700134: R_UpperArm
+    13700136: R_UpperElbow
+    13700138: R_UpperForearm
+    13700140: R_UpperLeg
+    13700142: R_UpperShoulder
+    13700144: Spine
+    13700146: SpineBase
+    13700148: Tire01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TC700-idle-01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Root_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt/L_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt/L_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt/L_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt/R_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt/R_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt/R_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/C_Head_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt/L_BottomArmEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt/L_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt/L_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt/L_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt/L_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt/L_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt/R_Drill_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt/R_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt/R_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt/R_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt/R_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt/R_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt/TireHook_jnt
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: L_Ankle
+        weight: 1
+      - path: L_Index01
+        weight: 1
+      - path: L_Index02
+        weight: 1
+      - path: L_Index03
+        weight: 1
+      - path: L_LowerArm
+        weight: 1
+      - path: L_LowerElbow
+        weight: 1
+      - path: L_LowerForearm
+        weight: 1
+      - path: L_LowerLeg
+        weight: 1
+      - path: L_LowerShoulder
+        weight: 1
+      - path: L_Middle01
+        weight: 1
+      - path: L_Middle02
+        weight: 1
+      - path: L_Middle03
+        weight: 1
+      - path: L_Palm
+        weight: 1
+      - path: L_Pinky01
+        weight: 1
+      - path: L_Pinky02
+        weight: 1
+      - path: L_Pinky03
+        weight: 1
+      - path: L_Ring01
+        weight: 1
+      - path: L_Ring02
+        weight: 1
+      - path: L_Ring03
+        weight: 1
+      - path: L_Thumb01
+        weight: 1
+      - path: L_Thumb02
+        weight: 1
+      - path: L_Thumb03
+        weight: 1
+      - path: L_Toe01
+        weight: 1
+      - path: L_Toe02
+        weight: 1
+      - path: L_Toe03
+        weight: 1
+      - path: L_TorsoWheel
+        weight: 1
+      - path: L_UpperArm
+        weight: 1
+      - path: L_UpperElbow
+        weight: 1
+      - path: L_UpperForearm
+        weight: 1
+      - path: L_UpperLeg
+        weight: 1
+      - path: L_UpperShoulder
+        weight: 1
+      - path: Magnet
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: polySurface97
+        weight: 1
+      - path: polySurface98
+        weight: 1
+      - path: polySurface99
+        weight: 1
+      - path: R_Ankle
+        weight: 1
+      - path: R_Drill
+        weight: 1
+      - path: R_Foot
+        weight: 1
+      - path: R_Index01
+        weight: 1
+      - path: R_Index02
+        weight: 1
+      - path: R_Index03
+        weight: 1
+      - path: R_LowerArm
+        weight: 1
+      - path: R_LowerElbow
+        weight: 1
+      - path: R_LowerForearn
+        weight: 1
+      - path: R_LowerLeg
+        weight: 1
+      - path: R_LowerShoulder
+        weight: 1
+      - path: R_Middle01
+        weight: 1
+      - path: R_Middle02
+        weight: 1
+      - path: R_Middle03
+        weight: 1
+      - path: R_Palm
+        weight: 1
+      - path: R_Pinky01
+        weight: 1
+      - path: R_Pinky02
+        weight: 1
+      - path: R_Pinky03
+        weight: 1
+      - path: R_Ring01
+        weight: 1
+      - path: R_Ring02
+        weight: 1
+      - path: R_Ring03
+        weight: 1
+      - path: R_Thumb01
+        weight: 1
+      - path: R_Thumb02
+        weight: 1
+      - path: R_Thumb03
+        weight: 1
+      - path: R_Toe01
+        weight: 1
+      - path: R_Toe02
+        weight: 1
+      - path: R_Toe03
+        weight: 1
+      - path: R_TorsoWheel
+        weight: 1
+      - path: R_UpperArm
+        weight: 1
+      - path: R_UpperElbow
+        weight: 1
+      - path: R_UpperForearm
+        weight: 1
+      - path: R_UpperLeg
+        weight: 1
+      - path: R_UpperShoulder
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: SpineBase
+        weight: 1
+      - path: Tire01
+        weight: 1
+      - path: tire02_jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TC700-idle-raise-R-hand
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 157
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Root_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt/L_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt/L_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt/L_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt/R_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt/R_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt/R_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/C_Head_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt/L_BottomArmEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt/L_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt/L_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt/L_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt/L_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt/L_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt/R_Drill_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt/R_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt/R_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt/R_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt/R_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt/R_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt/TireHook_jnt
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: L_Ankle
+        weight: 1
+      - path: L_Index01
+        weight: 1
+      - path: L_Index02
+        weight: 1
+      - path: L_Index03
+        weight: 1
+      - path: L_LowerArm
+        weight: 1
+      - path: L_LowerElbow
+        weight: 1
+      - path: L_LowerForearm
+        weight: 1
+      - path: L_LowerLeg
+        weight: 1
+      - path: L_LowerShoulder
+        weight: 1
+      - path: L_Middle01
+        weight: 1
+      - path: L_Middle02
+        weight: 1
+      - path: L_Middle03
+        weight: 1
+      - path: L_Palm
+        weight: 1
+      - path: L_Pinky01
+        weight: 1
+      - path: L_Pinky02
+        weight: 1
+      - path: L_Pinky03
+        weight: 1
+      - path: L_Ring01
+        weight: 1
+      - path: L_Ring02
+        weight: 1
+      - path: L_Ring03
+        weight: 1
+      - path: L_Thumb01
+        weight: 1
+      - path: L_Thumb02
+        weight: 1
+      - path: L_Thumb03
+        weight: 1
+      - path: L_Toe01
+        weight: 1
+      - path: L_Toe02
+        weight: 1
+      - path: L_Toe03
+        weight: 1
+      - path: L_TorsoWheel
+        weight: 1
+      - path: L_UpperArm
+        weight: 1
+      - path: L_UpperElbow
+        weight: 1
+      - path: L_UpperForearm
+        weight: 1
+      - path: L_UpperLeg
+        weight: 1
+      - path: L_UpperShoulder
+        weight: 1
+      - path: Magnet
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: polySurface97
+        weight: 1
+      - path: polySurface98
+        weight: 1
+      - path: polySurface99
+        weight: 1
+      - path: R_Ankle
+        weight: 1
+      - path: R_Drill
+        weight: 1
+      - path: R_Foot
+        weight: 1
+      - path: R_Index01
+        weight: 1
+      - path: R_Index02
+        weight: 1
+      - path: R_Index03
+        weight: 1
+      - path: R_LowerArm
+        weight: 1
+      - path: R_LowerElbow
+        weight: 1
+      - path: R_LowerForearn
+        weight: 1
+      - path: R_LowerLeg
+        weight: 1
+      - path: R_LowerShoulder
+        weight: 1
+      - path: R_Middle01
+        weight: 1
+      - path: R_Middle02
+        weight: 1
+      - path: R_Middle03
+        weight: 1
+      - path: R_Palm
+        weight: 1
+      - path: R_Pinky01
+        weight: 1
+      - path: R_Pinky02
+        weight: 1
+      - path: R_Pinky03
+        weight: 1
+      - path: R_Ring01
+        weight: 1
+      - path: R_Ring02
+        weight: 1
+      - path: R_Ring03
+        weight: 1
+      - path: R_Thumb01
+        weight: 1
+      - path: R_Thumb02
+        weight: 1
+      - path: R_Thumb03
+        weight: 1
+      - path: R_Toe01
+        weight: 1
+      - path: R_Toe02
+        weight: 1
+      - path: R_Toe03
+        weight: 1
+      - path: R_TorsoWheel
+        weight: 1
+      - path: R_UpperArm
+        weight: 1
+      - path: R_UpperElbow
+        weight: 1
+      - path: R_UpperForearm
+        weight: 1
+      - path: R_UpperLeg
+        weight: 1
+      - path: R_UpperShoulder
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: SpineBase
+        weight: 1
+      - path: Tire01
+        weight: 1
+      - path: tire02_jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TC700-idle-look
+      takeName: Take 001
+      firstFrame: 157
+      lastFrame: 211
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Root_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt/L_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt/L_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt/L_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt/R_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt/R_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt/R_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/C_Head_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt/L_BottomArmEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt/L_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt/L_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt/L_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt/L_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt/L_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt/R_Drill_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt/R_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt/R_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt/R_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt/R_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt/R_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt/TireHook_jnt
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: L_Ankle
+        weight: 1
+      - path: L_Index01
+        weight: 1
+      - path: L_Index02
+        weight: 1
+      - path: L_Index03
+        weight: 1
+      - path: L_LowerArm
+        weight: 1
+      - path: L_LowerElbow
+        weight: 1
+      - path: L_LowerForearm
+        weight: 1
+      - path: L_LowerLeg
+        weight: 1
+      - path: L_LowerShoulder
+        weight: 1
+      - path: L_Middle01
+        weight: 1
+      - path: L_Middle02
+        weight: 1
+      - path: L_Middle03
+        weight: 1
+      - path: L_Palm
+        weight: 1
+      - path: L_Pinky01
+        weight: 1
+      - path: L_Pinky02
+        weight: 1
+      - path: L_Pinky03
+        weight: 1
+      - path: L_Ring01
+        weight: 1
+      - path: L_Ring02
+        weight: 1
+      - path: L_Ring03
+        weight: 1
+      - path: L_Thumb01
+        weight: 1
+      - path: L_Thumb02
+        weight: 1
+      - path: L_Thumb03
+        weight: 1
+      - path: L_Toe01
+        weight: 1
+      - path: L_Toe02
+        weight: 1
+      - path: L_Toe03
+        weight: 1
+      - path: L_TorsoWheel
+        weight: 1
+      - path: L_UpperArm
+        weight: 1
+      - path: L_UpperElbow
+        weight: 1
+      - path: L_UpperForearm
+        weight: 1
+      - path: L_UpperLeg
+        weight: 1
+      - path: L_UpperShoulder
+        weight: 1
+      - path: Magnet
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: polySurface97
+        weight: 1
+      - path: polySurface98
+        weight: 1
+      - path: polySurface99
+        weight: 1
+      - path: R_Ankle
+        weight: 1
+      - path: R_Drill
+        weight: 1
+      - path: R_Foot
+        weight: 1
+      - path: R_Index01
+        weight: 1
+      - path: R_Index02
+        weight: 1
+      - path: R_Index03
+        weight: 1
+      - path: R_LowerArm
+        weight: 1
+      - path: R_LowerElbow
+        weight: 1
+      - path: R_LowerForearn
+        weight: 1
+      - path: R_LowerLeg
+        weight: 1
+      - path: R_LowerShoulder
+        weight: 1
+      - path: R_Middle01
+        weight: 1
+      - path: R_Middle02
+        weight: 1
+      - path: R_Middle03
+        weight: 1
+      - path: R_Palm
+        weight: 1
+      - path: R_Pinky01
+        weight: 1
+      - path: R_Pinky02
+        weight: 1
+      - path: R_Pinky03
+        weight: 1
+      - path: R_Ring01
+        weight: 1
+      - path: R_Ring02
+        weight: 1
+      - path: R_Ring03
+        weight: 1
+      - path: R_Thumb01
+        weight: 1
+      - path: R_Thumb02
+        weight: 1
+      - path: R_Thumb03
+        weight: 1
+      - path: R_Toe01
+        weight: 1
+      - path: R_Toe02
+        weight: 1
+      - path: R_Toe03
+        weight: 1
+      - path: R_TorsoWheel
+        weight: 1
+      - path: R_UpperArm
+        weight: 1
+      - path: R_UpperElbow
+        weight: 1
+      - path: R_UpperForearm
+        weight: 1
+      - path: R_UpperLeg
+        weight: 1
+      - path: R_UpperShoulder
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: SpineBase
+        weight: 1
+      - path: Tire01
+        weight: 1
+      - path: tire02_jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TC700-idle-scratch-head
+      takeName: Take 001
+      firstFrame: 211
+      lastFrame: 299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Root_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe01_jnt/L_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe02_jnt/L_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/L_UpperLeg_jnt/L_UpperLeg02_jnt/L_Knee_jnt/L_Ankle_jnt/L_Ankle02_jnt/L_Toe03_jnt/L_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe01_jnt/R_Toe01End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe02_jnt/R_Toe02End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt/R_UpperLeg_jnt/R_UpperLeg02_jnt/R_Knee_jnt/R_Ankle_jnt/R_Ankle02_jnt/R_Toe03_jnt/R_Toe03End_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/C_Head_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_BottomShoulder01_jnt/L_BottomShoulder02_jnt/L_BottomEblow02_jnt/L_BottomElbow_jnt/L_BottomArmEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Index01_jnt/L_Index02_jnt/L_Index03_jnt/L_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Middle01_jnt/L_Middle02_jnt/L_Middle03_jnt/L_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Pinky01_jnt/L_Pinky02_jnt/L_Pinky03_jnt/L_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Ring01_jnt/L_Ring02_jnt/L_Ring03_jnt/L_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/L_ArmRotate_jnt/L_UpperShoudler01_jnt/L_UpperShoulder02_jnt/L_UpperEblow02_jnt/L_UpperElbow_jnt/L_Wrist_jnt/L_Thumb01_jnt/L_Thumb02_jnt/L_Thumb03_jnt/L_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_BottomShoulder01_jnt/R_BottomShoulder02_jnt/R_BottomEblow02_jnt/R_BottomElbow_jnt/R_Drill_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Index01_jnt/R_Index02_jnt/R_Index03_jnt/R_IndexEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Middle01_jnt/R_Middle02_jnt/R_Middle03_jnt/R_MiddleEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Pinky01_jnt/R_Pinky02_jnt/R_Pinky03_jnt/R_PinkyEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Ring01_jnt/R_Ring02_jnt/R_Ring03_jnt/R_RingEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/R_ArmRotate_jnt/R_UpperShoudler01_jnt/R_UpperShoulder02_jnt/R_UpperEblow02_jnt/R_UpperElbow_jnt/R_Wrist_jnt/R_Thumb01_jnt/R_Thumb02_jnt/R_Thumb03_jnt/R_ThumbEnd_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt
+        weight: 1
+      - path: C_Root_jnt/C_Hip_jnt1/C_Hip_jnt2/C_Hip_jnt3/C_Torso_jnt/TireHookBar_jnt/TireHook_jnt
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: L_Ankle
+        weight: 1
+      - path: L_Index01
+        weight: 1
+      - path: L_Index02
+        weight: 1
+      - path: L_Index03
+        weight: 1
+      - path: L_LowerArm
+        weight: 1
+      - path: L_LowerElbow
+        weight: 1
+      - path: L_LowerForearm
+        weight: 1
+      - path: L_LowerLeg
+        weight: 1
+      - path: L_LowerShoulder
+        weight: 1
+      - path: L_Middle01
+        weight: 1
+      - path: L_Middle02
+        weight: 1
+      - path: L_Middle03
+        weight: 1
+      - path: L_Palm
+        weight: 1
+      - path: L_Pinky01
+        weight: 1
+      - path: L_Pinky02
+        weight: 1
+      - path: L_Pinky03
+        weight: 1
+      - path: L_Ring01
+        weight: 1
+      - path: L_Ring02
+        weight: 1
+      - path: L_Ring03
+        weight: 1
+      - path: L_Thumb01
+        weight: 1
+      - path: L_Thumb02
+        weight: 1
+      - path: L_Thumb03
+        weight: 1
+      - path: L_Toe01
+        weight: 1
+      - path: L_Toe02
+        weight: 1
+      - path: L_Toe03
+        weight: 1
+      - path: L_TorsoWheel
+        weight: 1
+      - path: L_UpperArm
+        weight: 1
+      - path: L_UpperElbow
+        weight: 1
+      - path: L_UpperForearm
+        weight: 1
+      - path: L_UpperLeg
+        weight: 1
+      - path: L_UpperShoulder
+        weight: 1
+      - path: Magnet
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: polySurface97
+        weight: 1
+      - path: polySurface98
+        weight: 1
+      - path: polySurface99
+        weight: 1
+      - path: R_Ankle
+        weight: 1
+      - path: R_Drill
+        weight: 1
+      - path: R_Foot
+        weight: 1
+      - path: R_Index01
+        weight: 1
+      - path: R_Index02
+        weight: 1
+      - path: R_Index03
+        weight: 1
+      - path: R_LowerArm
+        weight: 1
+      - path: R_LowerElbow
+        weight: 1
+      - path: R_LowerForearn
+        weight: 1
+      - path: R_LowerLeg
+        weight: 1
+      - path: R_LowerShoulder
+        weight: 1
+      - path: R_Middle01
+        weight: 1
+      - path: R_Middle02
+        weight: 1
+      - path: R_Middle03
+        weight: 1
+      - path: R_Palm
+        weight: 1
+      - path: R_Pinky01
+        weight: 1
+      - path: R_Pinky02
+        weight: 1
+      - path: R_Pinky03
+        weight: 1
+      - path: R_Ring01
+        weight: 1
+      - path: R_Ring02
+        weight: 1
+      - path: R_Ring03
+        weight: 1
+      - path: R_Thumb01
+        weight: 1
+      - path: R_Thumb02
+        weight: 1
+      - path: R_Thumb03
+        weight: 1
+      - path: R_Toe01
+        weight: 1
+      - path: R_Toe02
+        weight: 1
+      - path: R_Toe03
+        weight: 1
+      - path: R_TorsoWheel
+        weight: 1
+      - path: R_UpperArm
+        weight: 1
+      - path: R_UpperElbow
+        weight: 1
+      - path: R_UpperForearm
+        weight: 1
+      - path: R_UpperLeg
+        weight: 1
+      - path: R_UpperShoulder
+        weight: 1
+      - path: Spine
+        weight: 1
+      - path: SpineBase
+        weight: 1
+      - path: Tire01
+        weight: 1
+      - path: tire02_jnt
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: C_Root_jnt
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

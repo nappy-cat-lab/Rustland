@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1f9b94c12ef18784596781d9c8c5a045
+timeCreated: 1486748022
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DIN Offc
+  fontNames:
+  - DIN Offc
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1d12b272aa69b3446a3077e1a1f0d528, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c8ea89d16566441d2995442782d45a51
+timeCreated: 1486399801
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Troublemarker DEMO
+  fontNames:
+  - Troublemarker DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

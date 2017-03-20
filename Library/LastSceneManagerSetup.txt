@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Episode-01/UndergroundStation.unity
+  isLoaded: 1
+  isActive: 1

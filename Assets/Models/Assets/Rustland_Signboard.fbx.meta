@@ -1,0 +1,1034 @@
+fileFormatVersion: 2
+guid: 287fe285144e94b40bd3e59296270760
+timeCreated: 1486202637
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chain
+    100002: chain 1
+    100004: chain1
+    100006: chain1 1
+    100008: chain10
+    100010: chain10 1
+    100012: chain11
+    100014: chain11 1
+    100016: chain12
+    100018: chain12 1
+    100020: chain13
+    100022: chain13 1
+    100024: chain14
+    100026: chain14 1
+    100028: chain15
+    100030: chain15 1
+    100032: chain16
+    100034: chain16 1
+    100036: chain17
+    100038: chain17 1
+    100040: chain18
+    100042: chain18 1
+    100044: chain19
+    100046: chain19 1
+    100048: chain2
+    100050: chain2 1
+    100052: chain20
+    100054: chain20 1
+    100056: chain21
+    100058: chain21 1
+    100060: chain22
+    100062: chain22 1
+    100064: chain23
+    100066: chain23 1
+    100068: chain24
+    100070: chain24 1
+    100072: chain25
+    100074: chain25 1
+    100076: chain26
+    100078: chain26 1
+    100080: chain27
+    100082: chain27 1
+    100084: chain28
+    100086: chain28 1
+    100088: chain29
+    100090: chain29 1
+    100092: chain3
+    100094: chain3 1
+    100096: chain30
+    100098: chain30 1
+    100100: chain31
+    100102: chain31 1
+    100104: chain32
+    100106: chain32 1
+    100108: chain33
+    100110: chain33 1
+    100112: chain34
+    100114: chain34 1
+    100116: chain35
+    100118: chain35 1
+    100120: chain36
+    100122: chain36 1
+    100124: chain37
+    100126: chain37 1
+    100128: chain38
+    100130: chain38 1
+    100132: chain39
+    100134: chain39 1
+    100136: chain4
+    100138: chain4 1
+    100140: chain40
+    100142: chain40 1
+    100144: chain41
+    100146: chain41 1
+    100148: chain42
+    100150: chain42 1
+    100152: chain43
+    100154: chain43 1
+    100156: chain44
+    100158: chain44 1
+    100160: chain45
+    100162: chain45 1
+    100164: chain46
+    100166: chain46 1
+    100168: chain47
+    100170: chain47 1
+    100172: chain48
+    100174: chain48 1
+    100176: chain49
+    100178: chain49 1
+    100180: chain5
+    100182: chain5 1
+    100184: chain50
+    100186: chain50 1
+    100188: chain51
+    100190: chain51 1
+    100192: chain52
+    100194: chain52 1
+    100196: chain53
+    100198: chain53 1
+    100200: chain54
+    100202: chain54 1
+    100204: chain55
+    100206: chain55 1
+    100208: chain6
+    100210: chain6 1
+    100212: chain7
+    100214: chain7 1
+    100216: chain8
+    100218: chain8 1
+    100220: chain9
+    100222: chain9 1
+    100224: chains
+    100226: chains1
+    100228: //RootNode
+    100230: Rustland_signboard
+    100232: chain_01
+    100234: chain_01 1
+    100236: chain_02
+    100238: chain_02 1
+    100240: chain_03
+    100242: chain_03 1
+    100244: chain_04
+    100246: chain_04 1
+    100248: chain_05
+    100250: chain_05 1
+    100252: chain_06
+    100254: chain_06 1
+    100256: chain_07
+    100258: chain_07 1
+    100260: chain_08
+    100262: chain_08 1
+    100264: chain_09
+    100266: chain_09 1
+    100268: chain_10
+    100270: chain_10 1
+    100272: chain_11
+    100274: chain_11 1
+    100276: chain_12
+    100278: chain_12 1
+    100280: chain_13
+    100282: chain_13 1
+    100284: chain_14
+    100286: chain_14 1
+    100288: chain_15
+    100290: chain_15 1
+    100292: chain_16
+    100294: chain_16 1
+    100296: chain_17
+    100298: chain_17 1
+    100300: chain_18
+    100302: chain_18 1
+    100304: chain_19
+    100306: chain_19 1
+    100308: chain_20
+    100310: chain_20 1
+    100312: chain_21
+    100314: chain_21 1
+    100316: chain_22
+    100318: chain_22 1
+    100320: chain_23
+    100322: chain_23 1
+    100324: chain_24
+    100326: chain_24 1
+    100328: chain_25
+    100330: chain_25 1
+    100332: chain_26
+    100334: chain_26 1
+    100336: chain_27
+    100338: chain_27 1
+    100340: chain_28
+    100342: chain_28 1
+    100344: chain_29
+    100346: chain_29 1
+    100348: chain_30
+    100350: chain_30 1
+    100352: chain_31
+    100354: chain_31 1
+    100356: chain_32
+    100358: chain_32 1
+    100360: chain_33
+    100362: chain_33 1
+    100364: chain_34
+    100366: chain_34 1
+    100368: chain_35
+    100370: chain_35 1
+    100372: chain_36
+    100374: chain_36 1
+    100376: chain_37
+    100378: chain_37 1
+    100380: chain_38
+    100382: chain_38 1
+    100384: chains_L
+    100386: chains_R
+    100388: Rustland_signboard 1
+    400000: chain
+    400002: chain 1
+    400004: chain1
+    400006: chain1 1
+    400008: chain10
+    400010: chain10 1
+    400012: chain11
+    400014: chain11 1
+    400016: chain12
+    400018: chain12 1
+    400020: chain13
+    400022: chain13 1
+    400024: chain14
+    400026: chain14 1
+    400028: chain15
+    400030: chain15 1
+    400032: chain16
+    400034: chain16 1
+    400036: chain17
+    400038: chain17 1
+    400040: chain18
+    400042: chain18 1
+    400044: chain19
+    400046: chain19 1
+    400048: chain2
+    400050: chain2 1
+    400052: chain20
+    400054: chain20 1
+    400056: chain21
+    400058: chain21 1
+    400060: chain22
+    400062: chain22 1
+    400064: chain23
+    400066: chain23 1
+    400068: chain24
+    400070: chain24 1
+    400072: chain25
+    400074: chain25 1
+    400076: chain26
+    400078: chain26 1
+    400080: chain27
+    400082: chain27 1
+    400084: chain28
+    400086: chain28 1
+    400088: chain29
+    400090: chain29 1
+    400092: chain3
+    400094: chain3 1
+    400096: chain30
+    400098: chain30 1
+    400100: chain31
+    400102: chain31 1
+    400104: chain32
+    400106: chain32 1
+    400108: chain33
+    400110: chain33 1
+    400112: chain34
+    400114: chain34 1
+    400116: chain35
+    400118: chain35 1
+    400120: chain36
+    400122: chain36 1
+    400124: chain37
+    400126: chain37 1
+    400128: chain38
+    400130: chain38 1
+    400132: chain39
+    400134: chain39 1
+    400136: chain4
+    400138: chain4 1
+    400140: chain40
+    400142: chain40 1
+    400144: chain41
+    400146: chain41 1
+    400148: chain42
+    400150: chain42 1
+    400152: chain43
+    400154: chain43 1
+    400156: chain44
+    400158: chain44 1
+    400160: chain45
+    400162: chain45 1
+    400164: chain46
+    400166: chain46 1
+    400168: chain47
+    400170: chain47 1
+    400172: chain48
+    400174: chain48 1
+    400176: chain49
+    400178: chain49 1
+    400180: chain5
+    400182: chain5 1
+    400184: chain50
+    400186: chain50 1
+    400188: chain51
+    400190: chain51 1
+    400192: chain52
+    400194: chain52 1
+    400196: chain53
+    400198: chain53 1
+    400200: chain54
+    400202: chain54 1
+    400204: chain55
+    400206: chain55 1
+    400208: chain6
+    400210: chain6 1
+    400212: chain7
+    400214: chain7 1
+    400216: chain8
+    400218: chain8 1
+    400220: chain9
+    400222: chain9 1
+    400224: chains
+    400226: chains1
+    400228: //RootNode
+    400230: Rustland_signboard
+    400232: chain_01
+    400234: chain_01 1
+    400236: chain_02
+    400238: chain_02 1
+    400240: chain_03
+    400242: chain_03 1
+    400244: chain_04
+    400246: chain_04 1
+    400248: chain_05
+    400250: chain_05 1
+    400252: chain_06
+    400254: chain_06 1
+    400256: chain_07
+    400258: chain_07 1
+    400260: chain_08
+    400262: chain_08 1
+    400264: chain_09
+    400266: chain_09 1
+    400268: chain_10
+    400270: chain_10 1
+    400272: chain_11
+    400274: chain_11 1
+    400276: chain_12
+    400278: chain_12 1
+    400280: chain_13
+    400282: chain_13 1
+    400284: chain_14
+    400286: chain_14 1
+    400288: chain_15
+    400290: chain_15 1
+    400292: chain_16
+    400294: chain_16 1
+    400296: chain_17
+    400298: chain_17 1
+    400300: chain_18
+    400302: chain_18 1
+    400304: chain_19
+    400306: chain_19 1
+    400308: chain_20
+    400310: chain_20 1
+    400312: chain_21
+    400314: chain_21 1
+    400316: chain_22
+    400318: chain_22 1
+    400320: chain_23
+    400322: chain_23 1
+    400324: chain_24
+    400326: chain_24 1
+    400328: chain_25
+    400330: chain_25 1
+    400332: chain_26
+    400334: chain_26 1
+    400336: chain_27
+    400338: chain_27 1
+    400340: chain_28
+    400342: chain_28 1
+    400344: chain_29
+    400346: chain_29 1
+    400348: chain_30
+    400350: chain_30 1
+    400352: chain_31
+    400354: chain_31 1
+    400356: chain_32
+    400358: chain_32 1
+    400360: chain_33
+    400362: chain_33 1
+    400364: chain_34
+    400366: chain_34 1
+    400368: chain_35
+    400370: chain_35 1
+    400372: chain_36
+    400374: chain_36 1
+    400376: chain_37
+    400378: chain_37 1
+    400380: chain_38
+    400382: chain_38 1
+    400384: chains_L
+    400386: chains_R
+    400388: Rustland_signboard 1
+    2300000: chain
+    2300002: chain 1
+    2300004: chain1
+    2300006: chain1 1
+    2300008: chain10
+    2300010: chain10 1
+    2300012: chain11
+    2300014: chain11 1
+    2300016: chain12
+    2300018: chain12 1
+    2300020: chain13
+    2300022: chain13 1
+    2300024: chain14
+    2300026: chain14 1
+    2300028: chain15
+    2300030: chain15 1
+    2300032: chain16
+    2300034: chain16 1
+    2300036: chain17
+    2300038: chain17 1
+    2300040: chain18
+    2300042: chain18 1
+    2300044: chain19
+    2300046: chain19 1
+    2300048: chain2
+    2300050: chain2 1
+    2300052: chain20
+    2300054: chain20 1
+    2300056: chain21
+    2300058: chain21 1
+    2300060: chain22
+    2300062: chain22 1
+    2300064: chain23
+    2300066: chain23 1
+    2300068: chain24
+    2300070: chain24 1
+    2300072: chain25
+    2300074: chain25 1
+    2300076: chain26
+    2300078: chain26 1
+    2300080: chain27
+    2300082: chain27 1
+    2300084: chain28
+    2300086: chain28 1
+    2300088: chain29
+    2300090: chain29 1
+    2300092: chain3
+    2300094: chain3 1
+    2300096: chain30
+    2300098: chain30 1
+    2300100: chain31
+    2300102: chain31 1
+    2300104: chain32
+    2300106: chain32 1
+    2300108: chain33
+    2300110: chain33 1
+    2300112: chain34
+    2300114: chain34 1
+    2300116: chain35
+    2300118: chain35 1
+    2300120: chain36
+    2300122: chain36 1
+    2300124: chain37
+    2300126: chain37 1
+    2300128: chain38
+    2300130: chain38 1
+    2300132: chain39
+    2300134: chain39 1
+    2300136: chain4
+    2300138: chain4 1
+    2300140: chain40
+    2300142: chain40 1
+    2300144: chain41
+    2300146: chain41 1
+    2300148: chain42
+    2300150: chain42 1
+    2300152: chain43
+    2300154: chain43 1
+    2300156: chain44
+    2300158: chain44 1
+    2300160: chain45
+    2300162: chain45 1
+    2300164: chain46
+    2300166: chain46 1
+    2300168: chain47
+    2300170: chain47 1
+    2300172: chain48
+    2300174: chain48 1
+    2300176: chain49
+    2300178: chain49 1
+    2300180: chain5
+    2300182: chain5 1
+    2300184: chain50
+    2300186: chain50 1
+    2300188: chain51
+    2300190: chain51 1
+    2300192: chain52
+    2300194: chain52 1
+    2300196: chain53
+    2300198: chain53 1
+    2300200: chain54
+    2300202: chain54 1
+    2300204: chain55
+    2300206: chain55 1
+    2300208: chain6
+    2300210: chain6 1
+    2300212: chain7
+    2300214: chain7 1
+    2300216: chain8
+    2300218: chain8 1
+    2300220: chain9
+    2300222: chain9 1
+    2300224: Rustland_signboard
+    2300226: chain_01
+    2300228: chain_01 1
+    2300230: chain_02
+    2300232: chain_02 1
+    2300234: chain_03
+    2300236: chain_03 1
+    2300238: chain_04
+    2300240: chain_04 1
+    2300242: chain_05
+    2300244: chain_05 1
+    2300246: chain_06
+    2300248: chain_06 1
+    2300250: chain_07
+    2300252: chain_07 1
+    2300254: chain_08
+    2300256: chain_08 1
+    2300258: chain_09
+    2300260: chain_09 1
+    2300262: chain_10
+    2300264: chain_10 1
+    2300266: chain_11
+    2300268: chain_11 1
+    2300270: chain_12
+    2300272: chain_12 1
+    2300274: chain_13
+    2300276: chain_13 1
+    2300278: chain_14
+    2300280: chain_14 1
+    2300282: chain_15
+    2300284: chain_15 1
+    2300286: chain_16
+    2300288: chain_16 1
+    2300290: chain_17
+    2300292: chain_17 1
+    2300294: chain_18
+    2300296: chain_18 1
+    2300298: chain_19
+    2300300: chain_19 1
+    2300302: chain_20
+    2300304: chain_20 1
+    2300306: chain_21
+    2300308: chain_21 1
+    2300310: chain_22
+    2300312: chain_22 1
+    2300314: chain_23
+    2300316: chain_23 1
+    2300318: chain_24
+    2300320: chain_24 1
+    2300322: chain_25
+    2300324: chain_25 1
+    2300326: chain_26
+    2300328: chain_26 1
+    2300330: chain_27
+    2300332: chain_27 1
+    2300334: chain_28
+    2300336: chain_28 1
+    2300338: chain_29
+    2300340: chain_29 1
+    2300342: chain_30
+    2300344: chain_30 1
+    2300346: chain_31
+    2300348: chain_31 1
+    2300350: chain_32
+    2300352: chain_32 1
+    2300354: chain_33
+    2300356: chain_33 1
+    2300358: chain_34
+    2300360: chain_34 1
+    2300362: chain_35
+    2300364: chain_35 1
+    2300366: chain_36
+    2300368: chain_36 1
+    2300370: chain_37
+    2300372: chain_37 1
+    2300374: chain_38
+    2300376: chain_38 1
+    2300378: Rustland_signboard 1
+    3300000: chain
+    3300002: chain 1
+    3300004: chain1
+    3300006: chain1 1
+    3300008: chain10
+    3300010: chain10 1
+    3300012: chain11
+    3300014: chain11 1
+    3300016: chain12
+    3300018: chain12 1
+    3300020: chain13
+    3300022: chain13 1
+    3300024: chain14
+    3300026: chain14 1
+    3300028: chain15
+    3300030: chain15 1
+    3300032: chain16
+    3300034: chain16 1
+    3300036: chain17
+    3300038: chain17 1
+    3300040: chain18
+    3300042: chain18 1
+    3300044: chain19
+    3300046: chain19 1
+    3300048: chain2
+    3300050: chain2 1
+    3300052: chain20
+    3300054: chain20 1
+    3300056: chain21
+    3300058: chain21 1
+    3300060: chain22
+    3300062: chain22 1
+    3300064: chain23
+    3300066: chain23 1
+    3300068: chain24
+    3300070: chain24 1
+    3300072: chain25
+    3300074: chain25 1
+    3300076: chain26
+    3300078: chain26 1
+    3300080: chain27
+    3300082: chain27 1
+    3300084: chain28
+    3300086: chain28 1
+    3300088: chain29
+    3300090: chain29 1
+    3300092: chain3
+    3300094: chain3 1
+    3300096: chain30
+    3300098: chain30 1
+    3300100: chain31
+    3300102: chain31 1
+    3300104: chain32
+    3300106: chain32 1
+    3300108: chain33
+    3300110: chain33 1
+    3300112: chain34
+    3300114: chain34 1
+    3300116: chain35
+    3300118: chain35 1
+    3300120: chain36
+    3300122: chain36 1
+    3300124: chain37
+    3300126: chain37 1
+    3300128: chain38
+    3300130: chain38 1
+    3300132: chain39
+    3300134: chain39 1
+    3300136: chain4
+    3300138: chain4 1
+    3300140: chain40
+    3300142: chain40 1
+    3300144: chain41
+    3300146: chain41 1
+    3300148: chain42
+    3300150: chain42 1
+    3300152: chain43
+    3300154: chain43 1
+    3300156: chain44
+    3300158: chain44 1
+    3300160: chain45
+    3300162: chain45 1
+    3300164: chain46
+    3300166: chain46 1
+    3300168: chain47
+    3300170: chain47 1
+    3300172: chain48
+    3300174: chain48 1
+    3300176: chain49
+    3300178: chain49 1
+    3300180: chain5
+    3300182: chain5 1
+    3300184: chain50
+    3300186: chain50 1
+    3300188: chain51
+    3300190: chain51 1
+    3300192: chain52
+    3300194: chain52 1
+    3300196: chain53
+    3300198: chain53 1
+    3300200: chain54
+    3300202: chain54 1
+    3300204: chain55
+    3300206: chain55 1
+    3300208: chain6
+    3300210: chain6 1
+    3300212: chain7
+    3300214: chain7 1
+    3300216: chain8
+    3300218: chain8 1
+    3300220: chain9
+    3300222: chain9 1
+    3300224: Rustland_signboard
+    3300226: chain_01
+    3300228: chain_01 1
+    3300230: chain_02
+    3300232: chain_02 1
+    3300234: chain_03
+    3300236: chain_03 1
+    3300238: chain_04
+    3300240: chain_04 1
+    3300242: chain_05
+    3300244: chain_05 1
+    3300246: chain_06
+    3300248: chain_06 1
+    3300250: chain_07
+    3300252: chain_07 1
+    3300254: chain_08
+    3300256: chain_08 1
+    3300258: chain_09
+    3300260: chain_09 1
+    3300262: chain_10
+    3300264: chain_10 1
+    3300266: chain_11
+    3300268: chain_11 1
+    3300270: chain_12
+    3300272: chain_12 1
+    3300274: chain_13
+    3300276: chain_13 1
+    3300278: chain_14
+    3300280: chain_14 1
+    3300282: chain_15
+    3300284: chain_15 1
+    3300286: chain_16
+    3300288: chain_16 1
+    3300290: chain_17
+    3300292: chain_17 1
+    3300294: chain_18
+    3300296: chain_18 1
+    3300298: chain_19
+    3300300: chain_19 1
+    3300302: chain_20
+    3300304: chain_20 1
+    3300306: chain_21
+    3300308: chain_21 1
+    3300310: chain_22
+    3300312: chain_22 1
+    3300314: chain_23
+    3300316: chain_23 1
+    3300318: chain_24
+    3300320: chain_24 1
+    3300322: chain_25
+    3300324: chain_25 1
+    3300326: chain_26
+    3300328: chain_26 1
+    3300330: chain_27
+    3300332: chain_27 1
+    3300334: chain_28
+    3300336: chain_28 1
+    3300338: chain_29
+    3300340: chain_29 1
+    3300342: chain_30
+    3300344: chain_30 1
+    3300346: chain_31
+    3300348: chain_31 1
+    3300350: chain_32
+    3300352: chain_32 1
+    3300354: chain_33
+    3300356: chain_33 1
+    3300358: chain_34
+    3300360: chain_34 1
+    3300362: chain_35
+    3300364: chain_35 1
+    3300366: chain_36
+    3300368: chain_36 1
+    3300370: chain_37
+    3300372: chain_37 1
+    3300374: chain_38
+    3300376: chain_38 1
+    3300378: Rustland_signboard 1
+    4300000: chain
+    4300002: chain1
+    4300004: chain2
+    4300006: chain3
+    4300008: chain4
+    4300010: chain5
+    4300012: chain6
+    4300014: chain7
+    4300016: chain8
+    4300018: chain9
+    4300020: chain10
+    4300022: chain11
+    4300024: chain12
+    4300026: chain13
+    4300028: chain14
+    4300030: chain15
+    4300032: chain16
+    4300034: chain17
+    4300036: chain18
+    4300038: chain19
+    4300040: chain20
+    4300042: chain21
+    4300044: chain22
+    4300046: chain23
+    4300048: chain24
+    4300050: chain25
+    4300052: chain26
+    4300054: chain27
+    4300056: chain28
+    4300058: chain29
+    4300060: chain30
+    4300062: chain31
+    4300064: chain32
+    4300066: chain33
+    4300068: chain34
+    4300070: chain35
+    4300072: chain36
+    4300074: chain37
+    4300076: chain38
+    4300078: chain39
+    4300080: chain40
+    4300082: chain41
+    4300084: chain42
+    4300086: chain43
+    4300088: chain44
+    4300090: chain45
+    4300092: chain46
+    4300094: chain47
+    4300096: chain48
+    4300098: chain49
+    4300100: chain50
+    4300102: chain51
+    4300104: chain52
+    4300106: chain53
+    4300108: chain54
+    4300110: chain55
+    4300112: chain
+    4300114: chain1
+    4300116: chain2
+    4300118: chain3
+    4300120: chain4
+    4300122: chain5
+    4300124: chain6
+    4300126: chain7
+    4300128: chain8
+    4300130: chain9
+    4300132: chain10
+    4300134: chain11
+    4300136: chain12
+    4300138: chain13
+    4300140: chain14
+    4300142: chain15
+    4300144: chain16
+    4300146: chain17
+    4300148: chain18
+    4300150: chain19
+    4300152: chain20
+    4300154: chain21
+    4300156: chain22
+    4300158: chain23
+    4300160: chain24
+    4300162: chain25
+    4300164: chain26
+    4300166: chain27
+    4300168: chain28
+    4300170: chain29
+    4300172: chain30
+    4300174: chain31
+    4300176: chain32
+    4300178: chain33
+    4300180: chain34
+    4300182: chain35
+    4300184: chain36
+    4300186: chain37
+    4300188: chain38
+    4300190: chain39
+    4300192: chain40
+    4300194: chain41
+    4300196: chain42
+    4300198: chain43
+    4300200: chain44
+    4300202: chain45
+    4300204: chain46
+    4300206: chain47
+    4300208: chain48
+    4300210: chain49
+    4300212: chain50
+    4300214: chain51
+    4300216: chain52
+    4300218: chain53
+    4300220: chain54
+    4300222: chain55
+    4300224: Rustland_signboard
+    4300226: chain_01
+    4300228: chain_02
+    4300230: chain_03
+    4300232: chain_04
+    4300234: chain_05
+    4300236: chain_06
+    4300238: chain_07
+    4300240: chain_08
+    4300242: chain_09
+    4300244: chain_10
+    4300246: chain_11
+    4300248: chain_12
+    4300250: chain_13
+    4300252: chain_14
+    4300254: chain_15
+    4300256: chain_16
+    4300258: chain_17
+    4300260: chain_18
+    4300262: chain_19
+    4300264: chain_20
+    4300266: chain_21
+    4300268: chain_22
+    4300270: chain_23
+    4300272: chain_24
+    4300274: chain_25
+    4300276: chain_26
+    4300278: chain_27
+    4300280: chain_28
+    4300282: chain_29
+    4300284: chain_30
+    4300286: chain_31
+    4300288: chain_32
+    4300290: chain_33
+    4300292: chain_34
+    4300294: chain_35
+    4300296: chain_36
+    4300298: chain_37
+    4300300: chain_38
+    4300302: chain_01
+    4300304: chain_02
+    4300306: chain_03
+    4300308: chain_04
+    4300310: chain_05
+    4300312: chain_06
+    4300314: chain_07
+    4300316: chain_08
+    4300318: chain_09
+    4300320: chain_10
+    4300322: chain_11
+    4300324: chain_12
+    4300326: chain_13
+    4300328: chain_14
+    4300330: chain_15
+    4300332: chain_16
+    4300334: chain_17
+    4300336: chain_18
+    4300338: chain_19
+    4300340: chain_20
+    4300342: chain_21
+    4300344: chain_22
+    4300346: chain_23
+    4300348: chain_24
+    4300350: chain_25
+    4300352: chain_26
+    4300354: chain_27
+    4300356: chain_28
+    4300358: chain_29
+    4300360: chain_30
+    4300362: chain_31
+    4300364: chain_32
+    4300366: chain_33
+    4300368: chain_34
+    4300370: chain_35
+    4300372: chain_36
+    4300374: chain_37
+    4300376: chain_38
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

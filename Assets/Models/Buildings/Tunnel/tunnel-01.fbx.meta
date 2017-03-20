@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 0fe992bd4ffd44ea5bee0d395835235c
+timeCreated: 1488315322
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pCube1
+    100002: pCube2
+    100004: pCube3
+    100006: pCube4
+    100008: //RootNode
+    100010: tunnel_01
+    100012: tunnel_010
+    100014: tunnel_011
+    100016: tunnel_03
+    100018: tunnel_04
+    100020: tunnel_05
+    100022: tunnel_06
+    100024: tunnel_07
+    100026: tunnel_08
+    100028: tunnel_09
+    100030: tunnel_c_01
+    100032: tunnel_c_02
+    400000: pCube1
+    400002: pCube2
+    400004: pCube3
+    400006: pCube4
+    400008: //RootNode
+    400010: tunnel_01
+    400012: tunnel_010
+    400014: tunnel_011
+    400016: tunnel_03
+    400018: tunnel_04
+    400020: tunnel_05
+    400022: tunnel_06
+    400024: tunnel_07
+    400026: tunnel_08
+    400028: tunnel_09
+    400030: tunnel_c_01
+    400032: tunnel_c_02
+    2300000: pCube1
+    2300002: pCube2
+    2300004: pCube3
+    2300006: pCube4
+    2300008: tunnel_01
+    2300010: tunnel_010
+    2300012: tunnel_011
+    2300014: tunnel_03
+    2300016: tunnel_04
+    2300018: tunnel_05
+    2300020: tunnel_06
+    2300022: tunnel_07
+    2300024: tunnel_08
+    2300026: tunnel_09
+    2300028: tunnel_c_01
+    2300030: tunnel_c_02
+    3300000: pCube1
+    3300002: pCube2
+    3300004: pCube3
+    3300006: pCube4
+    3300008: tunnel_01
+    3300010: tunnel_010
+    3300012: tunnel_011
+    3300014: tunnel_03
+    3300016: tunnel_04
+    3300018: tunnel_05
+    3300020: tunnel_06
+    3300022: tunnel_07
+    3300024: tunnel_08
+    3300026: tunnel_09
+    3300028: tunnel_c_01
+    3300030: tunnel_c_02
+    4300000: tunnel_01
+    4300002: tunnel_03
+    4300004: tunnel_04
+    4300006: pCube1
+    4300008: pCube2
+    4300010: pCube3
+    4300012: pCube4
+    4300014: tunnel_c_01
+    4300016: tunnel_c_02
+    4300018: tunnel_05
+    4300020: tunnel_06
+    4300022: tunnel_07
+    4300024: tunnel_08
+    4300026: tunnel_09
+    4300028: tunnel_010
+    4300030: tunnel_011
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
